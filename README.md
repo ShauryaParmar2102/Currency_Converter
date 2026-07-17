@@ -23,18 +23,10 @@ A simple and responsive Currency Converter Web App that allows users to convert 
 
 ## 🛠️ Technologies Used
 
-- 🧱 HTML5
-- 🎨 CSS3
+- 🧱 HTML
+- 🎨 CSS
 - ⚡ JavaScript
 - 🌐 ExchangeRate API
-
-## 📚 What I Learned
-
-- Working with APIs and JSON data
-- Using JavaScript Promises with `fetch()`
-- Manipulating the DOM
-- Handling user input and events
-- Creating reusable functions and code patterns
 
 ## 🚀 How to Run
 
