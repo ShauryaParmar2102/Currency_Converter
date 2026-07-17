@@ -38,11 +38,11 @@ A simple and responsive Currency Converter Web App that allows users to convert 
 
 ## 🚀 How to Run
 
-### Clone this repository
+### 1. Clone this repository
 
-### Open index.html in your browser
+### 2. Open index.html in your browser
 
-### Enter an amount and select currencies to convert
+### 3. Enter an amount and select currencies to convert
 
 ---
 Made by Shaurya Parmar 😊
